@@ -3,11 +3,11 @@
 # Copyright (C) 2016-present Team LibreELEC (https://libreelec.tv)
 
 PKG_NAME="libvorbis"
-PKG_VERSION="1.3.7"
+PKG_VERSION="1.3.6"
 #PKG_SHA256=""
 PKG_LICENSE="BSD"
 PKG_SITE="http://www.vorbis.com/"
-PKG_URL="http://downloads.xiph.org/releases/vorbis/libvorbis-${PKG_VERSION}.tar.gz"
+PKG_URL="http://downloads.xiph.org/releases/vorbis/libvorbis-${PKG_VERSION}.tar.xz"
 PKG_DEPENDS_TARGET="toolchain libogg"
 PKG_LONGDESC="Lossless audio compression tools using the ogg-vorbis algorithms."
 PKG_TOOLCHAIN="autotools"
